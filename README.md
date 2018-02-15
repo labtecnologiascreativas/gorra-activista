@@ -2,7 +2,7 @@
 
 ## Una gorra activa (y copada) que enciende luces cuando te acercas a alguien.
 
-Utilizando la placa (Lilypad)[https://store.arduino.cc/lilypad-arduino-main-board], que permite controlar e integrar componentes electrónicos en proyectos textiles, creamos esta Gorra Activista.
+Utilizando la placa [Lilypad](https://store.arduino.cc/lilypad-arduino-main-board), que permite controlar e integrar componentes electrónicos en proyectos textiles, creamos esta Gorra Activista.
 
 ### ¿Cómo?
 
